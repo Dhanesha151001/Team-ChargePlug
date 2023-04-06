@@ -62,8 +62,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video]((https://youtu.be/XZazfZ5A0gk))
-
+[![Watch the video](https://img.youtube.com/vi/XZazfZ5A0gk/0.jpg)](https://www.youtube.com/watch?v=XZazfZ5A0gk)]
 ### Project development roadmap
 
 The project currently does the following things.

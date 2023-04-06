@@ -33,34 +33,17 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
-
+ChargePlug provides a user-friendly interface that allows drivers to easily locate charging stations in their area or along their route. The application provides information about the location of the charging station, the type of charger available, and the availability of the charging station.
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+ChargePlug uses the user's location to show a map of nearby charging stations for EV's and allow users to plan the route.
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
-
-More detail is available in our [description document](./docs/DESCRIPTION.md).
-
+Our project ChargePlug involves the development of an application that locates electric vehicle charging stations, making it easier for drivers to access a sustainable and eco-friendly mode of transportation. Our application uses real-time data to provide users with accurate and up-to-date information on the nearest charging stations, along with details on their availability and charging type. The application is designed to be user-friendly, with an easy-to-use interface that allows users to quickly and easily find charging stations that meet their needs. Overall, ChargePlug provides a comprehensive solution for electric vehicle drivers who need to locate and use charging stations. By making it easier for drivers to recharge their vehicles, ChargePlug helps promote the adoption of electric vehicles and supports the transition to a cleaner and more sustainable transportation system.
 ## Technology implementation
 
-### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
-
-### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
 
 ### Solution architecture
 

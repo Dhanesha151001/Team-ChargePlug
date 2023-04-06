@@ -49,16 +49,16 @@ Our project ChargePlug involves the development of an application that locates e
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![architecture](https://user-images.githubusercontent.com/103206429/230450425-bcd519eb-d9e1-449d-98b4-dd1002adb373.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+
+1. The user has to  login into the web-application.
+2. The app will then detect the users current location (if the permission is granted by the user) and display the nearby EV charging stations.
+3. Booking of slot can be done prior going to the station by checking the availablity status based on the real-time updates.
+4. The app stores all the data on Firebase.
 
 ## Presentation materials
 
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
 
 ### Solution demo video
 
@@ -78,8 +78,6 @@ The project currently does the following things.
 
 ---
 
-
-## About this template
 
 ### Contributing
 

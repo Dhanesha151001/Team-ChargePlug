@@ -67,33 +67,17 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- The application can use GPS to locate the nearest charging stations to the user's current location. It can display the distance, type of charging port, and availability of the charging stations on the map.
+- Users can book a charging station slot for a specific time period, allowing them to reserve a space and avoid any waiting time. The application can also provide real-time updates on the availability of charging stations.
+- The application can allow users to add new charging stations on the map. Users can provide information such as the location, type of charging port, pricing structure, and reviews for the new charging station.
+- The application should be compatible with different types of electric vehicles and charging ports, ensuring that users can find charging stations that are suitable for their vehicles.
 
-In the future we plan to...
 
-See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap](./images/roadmap.jpg)
 
-## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
-
-### How to run the project
-
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-### Live demo
-
-You can find a running system to test at...
-
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 
 ---
 
-_INSTRUCTIONS: You can remove the below section from your specific project README._
 
 ## About this template
 
